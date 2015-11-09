@@ -1,0 +1,7 @@
+This program is a Navmesh pathfinding algorithm using A* and or bidirectional A*.
+
+
+How to run this program: open up command line (cmd), then cd to this files directory. Use the command:
+python p3_interactive.py dungeon-orig.gif dungeon.png.mesh.pickle 8
+
+This program is designed to run on python 2.7. To see the path taken, simply click on two places on the screen and the program will create a path to the other point. 
